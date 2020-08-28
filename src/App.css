@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+button{
+   background: lightblue;
+    width: 40px;
+    height: 40px;
+}
+h1{
+  text-align: center;
+    color: lightpink;
+    font-size: 70px;
+    color: #f8f0f0; 
+text-shadow: -1px 0 rgb(247, 27, 19), 0 1px rgb(238, 11, 11), 1px 0 rgb(243, 25, 18), 0 -1px rgb(245, 14, 14); 
+font-family: 'Lobster', cursive;
+}
+
+
+.container{
+    border: 5px solid rgb(176, 178, 179);
+    border-radius: 25px;
+
+}
+body{
+    background: lightgray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+input[type="text"]{ padding: 9px 10px; line-height: 19px; 
+ background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;}
+.todos{
+  margin: 17px;
+}
